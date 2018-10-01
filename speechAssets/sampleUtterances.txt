@@ -1,0 +1,10 @@
+RevenueIntent How much revenue did I make this year?
+RevenueIntent How much revenue did I earn this year?
+RevenueIntent How much revenue did I generate this year?
+RevenueIntent How much money did I make?
+
+RegionIntent Which region was the most successful one?
+RegionIntent Which region generated the most money?
+RegionIntent Which region generated the most revenue?
+
+ListIntent List revenue per region
